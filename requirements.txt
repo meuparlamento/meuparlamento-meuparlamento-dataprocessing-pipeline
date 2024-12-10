@@ -10,5 +10,5 @@ git+https://github.com/LIAAD/yake
 git+https://github.com/pdfminer/pdfminer.six
 requests
 sumy==0.8.1
-luigi==2.8.6
+luigi==3.6.0
 awscli==1.16.216
